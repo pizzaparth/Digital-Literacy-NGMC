@@ -37,22 +37,19 @@ Digital-Literacy-NGMC/
 │
 ├── task-1-presentation/
 │   ├── infographic.png              ← Exported digital literacy infographic
-│   └── description.md              ← Tool used & design description
 │
 ├── task-2-portfolio/
-│   ├── github-profile.png           ← Screenshot of GitHub profile
-│   ├── linkedin-profile.png         ← Screenshot of LinkedIn profile
-│   ├── kaggle-profile.png           ← Screenshot of Kaggle profile
-│   └── reflection.md               ← Platform reflection notes
+│   ├── Gihub.png           ← Screenshot of GitHub profile
+│   ├── LinkedIn.png         ← Screenshot of LinkedIn profile
+│   ├── Kaggle.png           ← Screenshot of Kaggle profile
 │
 ├── task-3-platforms/
-│   ├── hackerrank-challenge.png     ← Completed HackerRank challenge screenshot
-│   ├── google-form-screenshot.png   ← Digital Literacy Quiz form screenshot
-│   ├── google-sheet-responses.png  ← Linked Google Sheet (response view)
-│   └── reflection.md               ← Platform exploration notes
+│   ├── HackerRank_star-badge.png    ← Completed HackerRank challenge screenshot
+│   ├── forms.png   ← Digital Literacy Quiz form screenshot
+│   ├── sheets.png  ← Linked Google Sheet (response view)
 │
 ├── task-4-email-etiquette/
-│   ├── email-drafts.pdf             ← Two professional email drafts
+│   ├── Email-etiquette.pdf             ← Two professional email drafts
 │   └── social-media-checklist.md   ← Social media Do's and Don'ts
 │
 └── task-5-cybercrime/
@@ -72,15 +69,15 @@ Created a one-page infographic using **Canva** that visually explains what Digit
 
 ---
 
-### ✅ Task 2 — Student Digital Portfolio *(Module 2 | 20 Marks)*
+### Task 2 — Student Digital Portfolio *(Module 2 | 20 Marks)*
 
 Set up professional profiles on three major platforms:
 
 | Platform       | Purpose                                      | Profile Link |
 |----------------|----------------------------------------------|--------------|
 | **GitHub**     | Code hosting, version control, project showcase | [pizzaparth](https://github.com/pizzaparth) |
-| **LinkedIn**   | Professional networking, internship visibility  | [Your LinkedIn](https://linkedin.com/in/your-profile) |
-| **Kaggle**     | Data science learning and competitions         | [Your Kaggle](https://kaggle.com/your-profile) |
+| **LinkedIn**   | Professional networking, internship visibility  | [LinkedIn](https://www.linkedin.com/in/parth-pancholi-a27966381/) |
+| **Kaggle**     | Data science learning and competitions         | [Kaggle](https://kaggle.com/pizzaparth) |
 
 Each profile includes education details, a brief bio, and serves as a long-term digital asset.
 
@@ -88,7 +85,7 @@ Each profile includes education details, a brief bio, and serves as a long-term 
 
 ---
 
-### ✅ Task 3 — Coding & Collaboration Platforms *(Module 3 | 20 Marks)*
+### Task 3 — Coding & Collaboration Platforms *(Module 3 | 20 Marks)*
 
 **Part A – Coding Practice (HackerRank):**  
 Completed the beginner-level *"Solve Me First"* challenge on HackerRank, earning an introductory badge. This was my first experience with an online judge platform.
@@ -96,13 +93,13 @@ Completed the beginner-level *"Solve Me First"* challenge on HackerRank, earning
 **Part B – Google Workspace Collaboration:**  
 Built a 5-question **Digital Literacy Awareness Quiz** using Google Forms, with multiple choice and short-answer questions. The form is linked to a Google Sheet to track responses automatically.
 
-> 📝 **Google Form (Quiz):** [Digital Literacy Awareness Quiz](https://forms.google.com/your-form-link-here)
+> 📝 **Google Form (Quiz):** [Digital Literacy Awareness Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdNYavdkpTg4vVLNiOggmMEzyjlCR8v3p7ve_mYFOCyU2ONfA/viewform?usp=dialog)
 
 📂 Files: [`task-3-platforms/`](./task-3-platforms/)
 
 ---
 
-### ✅ Task 4 — Professional Email & Etiquette Guide *(Module 4 | 20 Marks)*
+### Task 4 — Professional Email & Etiquette Guide *(Module 4 | 20 Marks)*
 
 **Part A – Email Drafts:**  
 Wrote two professional emails:
@@ -118,7 +115,7 @@ Created a Do's and Don'ts checklist with 5 rules on each side for responsible so
 
 ---
 
-### ✅ Task 5 — Cybercrime Awareness Case Study *(Module 5 | 20 Marks)*
+### Task 5 — Cybercrime Awareness Case Study *(Module 5 | 20 Marks)*
 
 **Part A – Case Study (Phishing):**  
 Researched and wrote a 200–250 word case study on **Phishing attacks** — covering what they are, how they unfold step-by-step, who gets targeted, and the financial and personal consequences for victims.
@@ -137,16 +134,14 @@ Compiled 8+ specific, actionable prevention tips for college students in India, 
 | Resource                          | Link |
 |-----------------------------------|------|
 | Project Report (PDF)              | [`report/Project_Report.pdf`](./report/Project_Report.pdf) |
-| Digital Literacy Quiz (Google Form) | [forms.google.com — your link](https://forms.google.com/your-form-link-here) |
+| Digital Literacy Quiz (Google Form) | [forms.google.com — your link](https://docs.google.com/forms/d/e/1FAIpQLSdNYavdkpTg4vVLNiOggmMEzyjlCR8v3p7ve_mYFOCyU2ONfA/viewform?usp=dialog) |
 | GitHub Profile                    | [github.com/pizzaparth](https://github.com/pizzaparth) |
-| LinkedIn Profile                  | [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) |
-| Kaggle Profile                    | [kaggle.com/your-profile](https://kaggle.com/your-profile) |
-| National Cyber Crime Portal       | [cybercrime.gov.in](https://cybercrime.gov.in) |
-| Cyber Crime Helpline              | **1930** (24×7) |
+| LinkedIn Profile                  | [linkedin.com/in/your-profile](https://www.linkedin.com/in/parth-pancholi-a27966381/) |
+| Kaggle Profile                    | [kaggle.com/your-profile](https://kaggle.com/pizzaparth) |
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Canva** — Infographic design (Task 1)
 - **GitHub** — Repository, version control, profile README (Task 2)
@@ -158,7 +153,7 @@ Compiled 8+ specific, actionable prevention tips for college students in India, 
 
 ---
 
-## 📌 Academic Integrity Statement
+## Academic Integrity Statement
 
 All written reflections and content in this repository are my own original work. AI tools were used only to understand concepts; final write-ups reflect my own understanding and experience. All screenshots are of my personal accounts. Sources have been cited in the project report wherever applicable.
 
