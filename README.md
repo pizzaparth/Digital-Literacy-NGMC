@@ -1,24 +1,22 @@
-# 🌐 Digital Literacy Portfolio — CSE0001
+# Digital Literacy Portfolio — CSE0001
 ### VIT Bhopal University | VITyarthi E-Learning Platform
 
 ---
 
-## 👤 Student Details
+## Student Details
 
 | Field              | Details                              |
 |--------------------|--------------------------------------|
-| **Name**           | Your Full Name                       |
-| **Registration No.**| XX-XXXXXXXXXX                       |
+| **Name**           | Parth Pancholi                       |
+| **Registration No.**| 25BCE10443                          |
 | **Branch**         | B.Tech – Computer Science Engineering|
-| **Year**           | First Year (2024–25)                 |
 | **Course Code**    | CSE0001 – Digital Literacy           |
-| **Credits**        | 1 Credit \| Pass / Fail (Non-CGPA)   |
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
-This repository is my submission for the **CSE0001 Digital Literacy** project at VIT Bhopal University. 
+This repository is my submission for the **CSE0001 Digital Literacy** project. 
 
 As part of this assignment, I took on the role of a **Student Digital Ambassador** — tasked with building a Digital Literacy Portfolio to help peers navigate the digital world responsibly. The project spans five modules and covers skills including creating infographics, building a professional digital presence, exploring coding platforms, writing professional emails, and understanding cybercrime threats.
 
@@ -28,7 +26,7 @@ All tasks were completed using free, browser-based tools — no prior coding exp
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Digital-Literacy-NGMC/
@@ -64,9 +62,9 @@ Digital-Literacy-NGMC/
 
 ---
 
-## 📚 Module Summaries
+## Module Summaries
 
-### ✅ Task 1 — Digital Literacy Awareness Infographic *(Module 1 | 20 Marks)*
+### Task 1 — Digital Literacy Awareness Infographic *(Module 1 | 20 Marks)*
 
 Created a one-page infographic using **Canva** that visually explains what Digital Literacy means and why it matters for students today. The infographic covers three key topics: **what digital literacy is**, **safe internet practices**, and **professional online presence**. It was designed to be simple and eye-catching so batchmates can absorb the key ideas at a glance.
 
